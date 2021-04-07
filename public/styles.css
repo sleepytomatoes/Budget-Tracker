@@ -19,7 +19,7 @@ body {
   }
   
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: rgb(160, 158, 158);
   }
   
   .error {
